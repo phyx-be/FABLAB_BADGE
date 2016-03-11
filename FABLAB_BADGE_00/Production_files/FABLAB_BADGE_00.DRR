@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FABLAB_BADGE_00.PcbDoc   11/03/2016  10:57:24
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FABLAB_BADGE_00.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        30mil (0.762mm)          Round          4                0.79 Inch (20.08 mm)
+T2        31.5mil (0.8001mm)       Round          2                0.79 Inch (20.00 mm)
+---------------------------------------------------------------------------
+Totals                                            6                1.58 Inch (40.08 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
