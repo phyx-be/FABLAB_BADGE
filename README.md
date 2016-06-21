@@ -1,6 +1,8 @@
 # FABLAB_BADGE
 DIY Kit to use for a soldering workshop with kids.
 
+![PCB image](https://raw.githubusercontent.com/phyx-be/FABLAB_BADGE/master/FABLAB_BADGE_01/IMG_PCBs.jpg)
+
 ## Rev 00 
 
 ![FABLAB_BADGE_00](https://raw.githubusercontent.com/phyx-be/FABLAB_BADGE/master/FABLAB_BADGE_00/3D_VIEW_TOP.png)
@@ -19,5 +21,7 @@ The kit requires a CR2032 battery, a CR2032 battery holder and 2 LEDs with a for
 - updated the FabLab Genk logo to include "Genk" in the soldermask layer
 
 ## Assembly instructions
+
+![parts](https://raw.githubusercontent.com/phyx-be/FABLAB_BADGE/master/FABLAB_BADGE_01/IMG_PARTS.jpg)
 
 - TODO : French, Dutch and English instructions.
